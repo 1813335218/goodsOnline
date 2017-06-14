@@ -69,9 +69,27 @@
 .paragraph {
   text-align:left;
 }
+.text_link {
+  color:#0000FF;
+}
+.text_link_mouse_over {
+}
+.text_link_mouse_down {
+}
 .line {
 }
 .arrow {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.checkbox {
+  text-align:left;
 }
 .html_button {
   text-align:center;
@@ -110,4 +128,7 @@
 }
 .image1 {
   color:#000000;
+}
+.tree_node {
+  text-align:left;
 }
