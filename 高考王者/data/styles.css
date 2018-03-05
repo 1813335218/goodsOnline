@@ -88,6 +88,9 @@
   color:#000000;
   text-align:left;
 }
+.checkbox {
+  text-align:left;
+}
 .radio_button {
   text-align:left;
 }
@@ -100,4 +103,7 @@
   color:#FFFFFF;
 }
 .icon {
+}
+.image1 {
+  color:#000000;
 }
